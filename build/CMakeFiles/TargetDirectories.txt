@@ -1,0 +1,3 @@
+/home/xb/ultralytics/yolov5-seg-opencv-dnn-cpp-master/build/CMakeFiles/YOLOv5.dir
+/home/xb/ultralytics/yolov5-seg-opencv-dnn-cpp-master/build/CMakeFiles/edit_cache.dir
+/home/xb/ultralytics/yolov5-seg-opencv-dnn-cpp-master/build/CMakeFiles/rebuild_cache.dir
